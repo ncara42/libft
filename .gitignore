@@ -1,9 +1,0 @@
-# Object files
-*.o
-
-# Library files
-*.a
-
-# Build artifacts
-libft/*.o
-libft/*.a
