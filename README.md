@@ -105,14 +105,13 @@ typedef struct s_list
 - **Compilador:** `cc` con flags `-Wall -Werror -Wextra`
 - **Funciones externas permitidas:** `malloc`, `free`, `write`
 
-## 🎓 Contexto Académico
+---
 
-Este proyecto es el primero del curriculum común de 42 School y sienta las bases para todos los proyectos posteriores. La biblioteca resultante se reutiliza en proyectos más complejos como `get_next_line`, `ft_printf`, `so_long`, `push_swap`, entre otros.
+## 🔗 Información de Contacto
 
-## 👤 Autor
-
-**ncaravac** - Estudiante de 42 School
+**GitHub:** [ncara42](https://github.com/ncara42)  
+**42 Network:** [42 Madrid](https://www.42madrid.com/)
 
 ---
 
-*Este proyecto fue desarrollado siguiendo los estándares de 42 School y demuestra comprensión sólida de programación en C, gestión de memoria y estructuras de datos fundamentales.*
+*Documento para fines de portfolio profesional. Todos los ejercicios fueron completados de forma individual siguiendo la normativa y valores de 42.*
