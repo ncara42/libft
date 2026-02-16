@@ -85,7 +85,7 @@ typedef struct s_list
 
 ### Buenas Prácticas
 - **Norma de código:** Cumplimiento estricto de la Norminette (estándar de código de 42)
-- **Protección de errores:** Validación exhaustiva de parámetros y casos edge
+- **Protección de errores:** Validación exhaustiva de parámetros y casos límite
 - **Compilación:** Flags estrictos (`-Wall -Werror -Wextra`)
 - **Makefiles:** Automatización de compilación con reglas eficientes
 
@@ -95,6 +95,7 @@ typedef struct s_list
 - Manejo de descriptores de archivo
 - Resolución de problemas algorítmicos
 - Testing y debugging de código crítico
+- Gestión de casos límite y validación exhaustiva
 
 ## 📊 Especificaciones Técnicas
 
