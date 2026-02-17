@@ -80,36 +80,6 @@ typedef struct s_list
 - `ft_lstiter` - Itera aplicando función
 - `ft_lstmap` - Crea nueva lista aplicando función
 
-## Conocimientos Adquiridos
-
-### Conceptos Fundamentales
-- **Gestión manual de memoria:** Uso correcto de `malloc`, `free` y prevención de memory leaks
-- **Punteros y referencias:** Manipulación avanzada de punteros, punteros a funciones, y dobles punteros
-- **Estructuras de datos:** Implementación de listas enlazadas desde cero
-- **Algoritmos:** Desarrollo de algoritmos de búsqueda, división de strings y conversión de tipos
-
-### Buenas Prácticas
-- **Norma de código:** Cumplimiento estricto de la Norminette (estándar de código de 42)
-- **Protección de errores:** Validación exhaustiva de parámetros y casos límite
-- **Compilación:** Flags estrictos (`-Wall -Werror -Wextra`)
-- **Makefiles:** Automatización de compilación con reglas eficientes
-
-### Competencias Técnicas
-- Programación en C a bajo nivel
-- Comprensión profunda del funcionamiento de funciones estándar
-- Manejo de descriptores de archivo
-- Resolución de problemas algorítmicos
-- Testing y debugging de código crítico
-- Gestión de casos límite y validación exhaustiva
-
-## Especificaciones Técnicas
-
-- **Lenguaje:** C
-- **Estándar:** Compatible con funciones de `libc`
-- **Norma:** 42 Norminette
-- **Compilador:** `cc` con flags `-Wall -Werror -Wextra`
-- **Funciones externas permitidas:** `malloc`, `free`, `write`
-
 ---
 
 ## Información de Contacto
