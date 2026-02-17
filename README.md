@@ -1,4 +1,4 @@
-# 📚 Libft - Biblioteca Estándar en C
+# Libft - Biblioteca Estándar en C
 
 > Implementación desde cero de funciones fundamentales de la biblioteca estándar de C, desarrollado como parte del curriculum de 42 School.
 
