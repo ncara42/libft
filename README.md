@@ -1,12 +1,12 @@
-# Libft - Biblioteca Estándar en C
+# Libft
 
 > Implementación desde cero de funciones fundamentales de la biblioteca estándar de C, desarrollado como parte del curriculum de 42 School.
 
-## 🎯 Descripción
+## Descripción
 
 **Libft** es una biblioteca de funciones en C creada manualmente, sin el uso de librerías externas (excepto `write`, `malloc` y `free`). Este proyecto constituye la base para futuros desarrollos en el curriculum de 42, estableciendo un entendimiento profundo de cómo funcionan las estructuras de datos y algoritmos a bajo nivel.
 
-## 🔧 Compilación y Uso
+## Compilación y Uso
 
 ```bash
 # Compilar la biblioteca
@@ -24,7 +24,7 @@ make re
 
 La compilación genera `libft.a`, una biblioteca estática lista para ser enlazada con otros proyectos en C.
 
-## 📋 Funciones Implementadas
+## Funciones Implementadas
 
 ### Part I: Funciones de Libc
 Reimplementación de funciones estándar de C con el prefijo `ft_`:
@@ -75,7 +75,7 @@ typedef struct s_list
 - `ft_lstiter` - Itera aplicando función
 - `ft_lstmap` - Crea nueva lista aplicando función
 
-## 💡 Conocimientos Adquiridos
+## Conocimientos Adquiridos
 
 ### Conceptos Fundamentales
 - **Gestión manual de memoria:** Uso correcto de `malloc`, `free` y prevención de memory leaks
@@ -97,7 +97,7 @@ typedef struct s_list
 - Testing y debugging de código crítico
 - Gestión de casos límite y validación exhaustiva
 
-## 📊 Especificaciones Técnicas
+## Especificaciones Técnicas
 
 - **Lenguaje:** C
 - **Estándar:** Compatible con funciones de `libc`
@@ -107,7 +107,7 @@ typedef struct s_list
 
 ---
 
-## 🔗 Información de Contacto
+## Información de Contacto
 
 **GitHub:** [ncara42](https://github.com/ncara42)  
 **42 Network:** [42 Madrid](https://www.42madrid.com/)
