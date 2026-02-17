@@ -1,8 +1,13 @@
 # Libft
 
-> Implementación desde cero de funciones fundamentales de la biblioteca estándar de C, desarrollado como parte del curriculum de 42 School.
+**Estudiante:** ncaravac  
+**Campus:** 42 Madrid, España <br>
+**Período:** Diciembre 2025  
+**Lenguaje:** C  
 
-## Descripción
+---
+
+## Información General
 
 **Libft** es una biblioteca de funciones en C creada manualmente, sin el uso de librerías externas (excepto `write`, `malloc` y `free`). Este proyecto constituye la base para futuros desarrollos en el curriculum de 42, estableciendo un entendimiento profundo de cómo funcionan las estructuras de datos y algoritmos a bajo nivel.
 
