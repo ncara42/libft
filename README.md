@@ -7,7 +7,7 @@
 
 ---
 
-## Información General
+## Descripción
 
 **Libft** es una biblioteca de funciones en C creada manualmente, sin el uso de librerías externas (excepto `write`, `malloc` y `free`). Este proyecto constituye la base para futuros desarrollos en el curriculum de 42, estableciendo un entendimiento profundo de cómo funcionan las estructuras de datos y algoritmos a bajo nivel.
 
